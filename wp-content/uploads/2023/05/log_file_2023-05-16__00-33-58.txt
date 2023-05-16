@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: University were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://dastur.loc
+Data file = C:\OpenServer\domains\dastur.loc/wp-content/uploads/2023/05/demo-content-import-file_2023-05-16__00-33-58.xml
+Widget file = C:\OpenServer\domains\dastur.loc/wp-content/uploads/2023/05/demo-widgets-import-file_2023-05-16__00-33-58.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
